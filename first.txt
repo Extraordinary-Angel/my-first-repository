@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
-first text file
-laptop-zcy modified
-first text file has been modified
+first text file has been modified by laptop-zcy
 
+
+=======
+first text file has been modified by github user
+>>>>>>> b5090aacce4e57d301f09ccdf7a570606da688f0
